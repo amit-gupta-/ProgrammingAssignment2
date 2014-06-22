@@ -1,4 +1,4 @@
-## It creates a cache
+## It creates a special matrix which helps in caching the matrix inversion
 makeCacheMatrix <- function(x = matrix()) {
       inv_mat <- NULL
 ##set the data
